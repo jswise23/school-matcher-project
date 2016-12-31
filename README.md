@@ -1,4 +1,4 @@
-# schoolmatcherproject
+# School Matcher
 Final project for BGSU class CS 2010
 
 This program runs a questionnaire to determine the best Ohio public college is ideal for the user.
